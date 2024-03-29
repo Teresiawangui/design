@@ -1,0 +1,129 @@
+#cozydinning{
+    display: flex;
+    gap: 2%;
+    margin-left: 25%;
+}
+.tip1{
+    display: flex;
+    gap: 4%;
+}
+.tip2{
+    display: flex;
+    gap: 4%;
+}
+.tip3{
+    display: flex;
+    gap: 4%;
+}
+.cozy{
+    width: 430px;
+    height: 530px;
+}
+#navbar{
+    display: flex;
+    gap: 5%;
+    margin-left: 25%;
+    background-color: black;
+    margin-right: 31%;
+    color: antiquewhite;
+    
+}
+
+
+.image1{
+    width: 800px;
+    height: 550px;
+    margin-left: 25%;
+}
+.benefit{
+    text-align: center;
+
+}
+.choose{
+    display: flex;
+    margin-left: 25%;
+    gap: 5%;
+}
+.popular{
+    text-align: center;
+}
+.furniture{
+    display: flex;
+    margin-left: 25%;
+    gap: 5%;
+}
+.styleproduct{
+    text-align: center;
+}
+.livingroom{
+    display: flex;
+    margin-left: 25%;
+    gap: 5%;
+}
+.bed{
+    display: flex;
+    margin-left: 25%;
+    gap: 5%;
+}
+.moderndinning{
+display: flex;
+margin-left: 25%;
+gap: 5%;
+}
+.testimonial{
+    text-align: center;
+    background-color: rgb(218, 199, 218);
+    margin-right: 31%;
+    margin-left: 25%;
+}
+.services{
+    display: flex;
+    margin-left: 25%;
+    gap: 2%;
+    background-color: rgb(248, 246, 243);
+}
+.bestfurniture{
+    margin-left: 35%;
+}
+.footer{
+    display: flex;
+    gap: 8%;
+    margin-left: 25%;
+    color: antiquewhite;
+    background-color: black;
+    margin-right: 30%;
+
+}
+.firstorder{
+    margin-left: 25%;
+}
+.home{
+    margin-left: 25%;
+}
+.b2{
+    margin-left: 15%;
+}
+span{
+color:  rgb(200, 145, 72);
+}
+.butt{
+    color: antiquewhite;
+    background-color: rgb(172, 124, 62);
+}
+.p1{
+    margin-left: 5%;
+}
+.t2{
+    background-color: rgb(218, 199, 218);
+    margin-right: 31%;
+    margin-left: 25%;
+}
+.text{
+    position: absolute;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    color: #fff; 
+    padding: 10px 20px;  
+    text-align: center;
+}
