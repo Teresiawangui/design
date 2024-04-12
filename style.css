@@ -259,97 +259,118 @@ overflow-x: hidden;
     #cozydinning{
         flex-wrap: wrap;
         overflow-x: hidden;
+        font-size: small;
         
     }
     .tip1{
         flex-wrap: wrap;
         overflow-x: hidden;
+        font-size: small;
     }
     .tip2{
         flex-wrap: wrap;
         overflow-x: hidden;
+        font-size: small;
         
     }
     .tip3{
         flex-wrap: wrap;
         overflow-x: hidden;
+        font-size: small;
     }
     .cozy{
         width: 430px;
         height: 530px;
         overflow-x: hidden;
+        font-size: small;
     }
     #navbar{
         flex-wrap: wrap;
         background-color: black;
         color: antiquewhite;
         overflow-x: hidden;
+        font-size: small;
         
     }
     
     
     .image1{
-        width: 800px;
+        width: 750px;
         height: 550px;
         overflow-x: hidden;
+        font-size: small;
     }
     .benefit{
         text-align: center;
         overflow-x: hidden;
+        font-size: small;
     
     }
     .choose{
         flex-wrap: wrap;
         overflow-x: hidden;
+        font-size: small;
     }
     .popular{
         text-align: center;
         overflow-x: hidden;
+        font-size: small;
     }
     .furniture{
         flex-wrap: wrap;
         overflow-x: hidden;
+        font-size: small;
     }
     .styleproduct{
         text-align: center;
+        font-size: small;
     }
     .livingroom{
         flex-wrap: wrap;
         overflow-x: hidden;
+        font-size: small;
     }
     .bed{
         flex-wrap: wrap;
         overflow-x: hidden;
+        font-size: small;
     }
     .moderndinning{
         flex-wrap: wrap;
         overflow-x: hidden;
+        font-size: small;
     }
     .testimonial{
         text-align: center;
         background-color: rgb(218, 199, 218);
+        font-size: small;
         
     }
     .services{
         flex-wrap: wrap;
         background-color: rgb(248, 246, 243);
         overflow-x: hidden;
+        font-size: small;
     }
     .bestfurniture{
-        overflow-x: hidden;   
+        overflow-x: hidden; 
+        font-size: small;  
     }
     .footer{
         flex-wrap: wrap;
         color: antiquewhite;
         background-color: black;
         overflow-x: hidden;
+        font-size: small;
     
     }
     .firstorder{
         overflow-x: hidden;
+        font-size: small;
     }
     .home{
-        overflow-x: hidden;   
+        overflow-x: hidden; 
+        font-size: small;  
     }
     .b2{
         overflow-x: hidden;
@@ -375,6 +396,7 @@ overflow-x: hidden;
         color: #fff; 
         padding: 10px 20px;  
         text-align: center;
+        font-size: small;
     }
 }
 
